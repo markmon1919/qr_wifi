@@ -1,0 +1,9 @@
+version: "3.8"
+
+services:
+  redis:
+    image: redis:7
+    container_name: qr-redis
+    ports:
+      - "6380:6379"
+    command: redis-server --appendonly yes

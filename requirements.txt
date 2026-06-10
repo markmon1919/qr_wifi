@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+flask
+pymongo
+redis
+requests
+python-dotenv
