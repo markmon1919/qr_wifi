@@ -271,7 +271,7 @@ flowchart TB
 
 
 
-Huawei AX3 WiFi
+TP-Link Archer C6 WiFi
         ↓
 User connects
         ↓
