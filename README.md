@@ -269,8 +269,6 @@ flowchart TB
 ```
 
 
-
-
 TP-Link Archer C6 WiFi
         ↓
 User connects
